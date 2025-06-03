@@ -1,6 +1,10 @@
 # Навигационная панель (CSS-only Responsive Menu) 
 ## Использованная AI - Chat GPT
 
+
+https://github.com/user-attachments/assets/fcd4aa63-6d29-4279-adba-3f2791656d28
+
+
 ## 🧩 Задание
 Создать адаптивную навигационную панель, которая:
 
